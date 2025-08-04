@@ -1,0 +1,48 @@
+2025-08-05 00:11:05,558 - Buy signal detected for ASTERDM on 05-08-2025 12:11 AM
+2025-08-05 00:15:19,443 - Buy signal detected for ASTERDM on 05-08-2025 12:15 AM
+2025-08-05 00:15:19,445 - Email already sent for ASTERDM
+2025-08-05 00:19:24,465 - Buy signal detected for ASTERDM on 05-08-2025 12:19 AM
+2025-08-05 00:20:33,420 - Buy signal detected for ASTERDM on 05-08-2025 12:20 AM
+2025-08-05 00:20:33,422 - Email already sent for ASTERDM
+2025-08-05 00:20:33,423 - Buy signal detected for ASTERDM on 05-08-2025 12:20 AM
+2025-08-05 00:20:33,424 - Email already sent for ASTERDM
+2025-08-05 00:25:54,553 - Buy signal detected for ASTERDM on 05-08-2025 12:25 AM
+2025-08-05 00:26:15,531 - Buy signal detected for ASTERDM on 05-08-2025 12:26 AM
+2025-08-05 00:26:16,200 - Email already sent for ASTERDM
+2025-08-05 00:26:16,201 - Buy signal detected for BHARTIHEXA on 05-08-2025 12:26 AM
+2025-08-05 00:27:18,877 - Buy signal detected for ASTERDM on 05-08-2025 12:27 AM
+2025-08-05 00:27:24,586 - Buy signal detected for ASTERDM on 05-08-2025 12:27 AM
+2025-08-05 00:27:24,588 - Email already sent for ASTERDM
+2025-08-05 00:27:24,588 - Buy signal detected for BHARTIHEXA on 05-08-2025 12:27 AM
+2025-08-05 00:27:29,688 - Buy signal detected for ASTERDM on 05-08-2025 12:27 AM
+2025-08-05 00:27:29,690 - Email already sent for ASTERDM
+2025-08-05 00:27:29,690 - Buy signal detected for BHARTIHEXA on 05-08-2025 12:27 AM
+2025-08-05 00:27:29,691 - Email already sent for BHARTIHEXA
+2025-08-05 00:27:29,691 - Buy signal detected for MAXHEALTH on 05-08-2025 12:27 AM
+2025-08-05 00:27:35,121 - Buy signal detected for ASTERDM on 05-08-2025 12:27 AM
+2025-08-05 00:27:35,123 - Email already sent for ASTERDM
+2025-08-05 00:27:35,124 - Buy signal detected for BHARTIHEXA on 05-08-2025 12:27 AM
+2025-08-05 00:27:35,125 - Email already sent for BHARTIHEXA
+2025-08-05 00:27:35,125 - Buy signal detected for MAXHEALTH on 05-08-2025 12:27 AM
+2025-08-05 00:27:35,127 - Email already sent for MAXHEALTH
+2025-08-05 00:27:35,127 - Buy signal detected for KARURVYSYA on 05-08-2025 12:27 AM
+2025-08-05 00:27:39,875 - Buy signal detected for ASTERDM on 05-08-2025 12:27 AM
+2025-08-05 00:27:39,876 - Email already sent for ASTERDM
+2025-08-05 00:27:39,877 - Buy signal detected for BHARTIHEXA on 05-08-2025 12:27 AM
+2025-08-05 00:27:39,877 - Email already sent for BHARTIHEXA
+2025-08-05 00:27:39,878 - Buy signal detected for MAXHEALTH on 05-08-2025 12:27 AM
+2025-08-05 00:27:39,879 - Email already sent for MAXHEALTH
+2025-08-05 00:27:39,880 - Buy signal detected for KARURVYSYA on 05-08-2025 12:27 AM
+2025-08-05 00:27:39,881 - Email already sent for KARURVYSYA
+2025-08-05 00:27:39,882 - Buy signal detected for LTF on 05-08-2025 12:27 AM
+2025-08-05 00:27:45,906 - Buy signal detected for ASTERDM on 05-08-2025 12:27 AM
+2025-08-05 00:27:45,907 - Email already sent for ASTERDM
+2025-08-05 00:27:45,907 - Buy signal detected for BHARTIHEXA on 05-08-2025 12:27 AM
+2025-08-05 00:27:45,908 - Email already sent for BHARTIHEXA
+2025-08-05 00:27:45,908 - Buy signal detected for MAXHEALTH on 05-08-2025 12:27 AM
+2025-08-05 00:27:45,909 - Email already sent for MAXHEALTH
+2025-08-05 00:27:45,910 - Buy signal detected for KARURVYSYA on 05-08-2025 12:27 AM
+2025-08-05 00:27:45,911 - Email already sent for KARURVYSYA
+2025-08-05 00:27:45,911 - Buy signal detected for LTF on 05-08-2025 12:27 AM
+2025-08-05 00:27:45,912 - Email already sent for LTF
+2025-08-05 00:27:45,912 - Buy signal detected for CHALET on 05-08-2025 12:27 AM

@@ -1,0 +1,4 @@
+2025-08-04 19:45:54,585 - Buy signal detected for ASTERDM on 04-08-2025 07:45 PM
+2025-08-04 19:46:04,376 - Buy signal detected for ASTERDM on 04-08-2025 07:46 PM
+2025-08-04 19:46:05,608 - Email already sent for ASTERDM
+2025-08-04 19:46:05,609 - Buy signal detected for BHARTIHEXA on 04-08-2025 07:46 PM

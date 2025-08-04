@@ -1,0 +1,27 @@
+2025-08-01 18:02:59,716 - ********* Welcome to SK Trading App *********
+2025-08-01 18:03:00,224 - ********* prop. Shahu Kshirsagar *********
+
+2025-08-01 18:03:06,852 - Time is 3:30 PM IST or later. Quitting application.
+2025-08-01 18:05:08,669 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:04 PM
+2025-08-01 18:05:30,550 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:05 PM
+2025-08-01 18:05:30,551 - Email already sent for BHARTIHEXA
+2025-08-01 18:07:24,758 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:07 PM
+2025-08-01 18:24:03,863 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:24 PM
+2025-08-01 18:29:23,901 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:29 PM
+2025-08-01 18:32:49,746 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:32 PM
+2025-08-01 18:33:28,973 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:33 PM
+2025-08-01 18:33:37,315 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:33 PM
+2025-08-01 18:33:37,316 - Email already sent for BHARTIHEXA
+2025-08-01 18:33:37,317 - Buy signal detected for AFFLE on 01-08-2025 06:33 PM
+2025-08-01 18:33:42,285 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:33 PM
+2025-08-01 18:33:42,285 - Email already sent for BHARTIHEXA
+2025-08-01 18:33:42,285 - Buy signal detected for AFFLE on 01-08-2025 06:33 PM
+2025-08-01 18:33:42,286 - Email already sent for AFFLE
+2025-08-01 18:33:42,286 - Buy signal detected for WOCKPHARMA on 01-08-2025 06:33 PM
+2025-08-01 18:33:47,508 - Buy signal detected for BHARTIHEXA on 01-08-2025 06:33 PM
+2025-08-01 18:33:47,508 - Email already sent for BHARTIHEXA
+2025-08-01 18:33:47,508 - Buy signal detected for AFFLE on 01-08-2025 06:33 PM
+2025-08-01 18:33:47,509 - Email already sent for AFFLE
+2025-08-01 18:33:47,509 - Buy signal detected for WOCKPHARMA on 01-08-2025 06:33 PM
+2025-08-01 18:33:47,509 - Email already sent for WOCKPHARMA
+2025-08-01 18:33:47,509 - Buy signal detected for NH on 01-08-2025 06:33 PM
