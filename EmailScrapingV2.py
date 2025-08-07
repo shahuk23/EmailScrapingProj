@@ -197,6 +197,22 @@ def checkMarketOffTime():
 
         quit()  # or use sys.exit() for clarity
 
+def waitUntilMarketOpen():
+    while True:
+        utc_now = datetime.utcnow()
+        ist_now = utc_now + timedelta(hours=5, minutes=30)
+
+        # If time is 9:15 AM or later, break the loop
+        if ist_now.hour > 9 or (ist_now.hour == 9 and ist_now.minute >= 15):
+            logging.info("Time is 9:15 AM IST or later. Proceeding with execution.")
+            print("Time is 9:15 AM IST or later. Proceeding with execution.")
+            break
+
+        logging.info(f"Current IST time is {ist_now.strftime('%H:%M:%S')}. Waiting until 9:15 AM IST.")
+        print(f"Current IST time is {ist_now.strftime('%H:%M:%S')}. Waiting until 9:15 AM IST.")
+        
+        time.sleep(30)  # Sleep for 30 seconds before checking again
+        
 
 if __name__ == "__main__":
     if isDevOrProdEnvironment == 'PROD':
@@ -207,6 +223,7 @@ if __name__ == "__main__":
         print("********* Welcome to SK Trading App *********")
         print("********* prop. Shahu Kshirsagar *********\n")
         maintain_unique_stocks = utility.load_stocks_from_csv()
+        waitUntilMarketOpen()
     while True:
         if(isMarketCloseCheckRequired):
             if isDevOrProdEnvironment == 'PROD':
